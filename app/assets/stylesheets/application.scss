@@ -3,13 +3,13 @@
  *= require_self
  */
 
- @import "bootstrap";
- @import "font-awesome-sprockets";
- @import "font-awesome";
+ @import "semantic-ui";
+ // @import "font-awesome-sprockets";
+ // @import "font-awesome";
 
 body {
     font-family: "Roboto";
-    // color: #fff;
+    color: #fff;
     margin-bottom: 60px;
     background: url("http://auto4n.com/img/bg.jpg") no-repeat center center fixed;
     -webkit-background-size: cover;

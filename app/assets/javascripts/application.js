@@ -1,5 +1,5 @@
 //= require jquery
-//= require bootstrap-sprockets
+//= require semantic-ui
 //= require angular
 //= require angular-messages
 //= require angular-ui-router

@@ -7,7 +7,7 @@
             "angular": "v1.5.8",
             "angular-ui-router": "latest",
             "angular-messages": "v1.5.8",
-            "bootstrap": "v4.0.0-alpha.6"
+            "semantic-ui": "latest"
         }
     }
 }
