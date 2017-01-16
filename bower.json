@@ -1,0 +1,13 @@
+{
+    "name": "auto4n-mockup",
+    "description": "Rails/AngularJS mockup of local small business website",
+    "vendor": {
+        "name": "bower-rails generated vendor assets",
+        "dependencies": {
+            "angular": "v1.5.8",
+            "angular-ui-router": "latest",
+            "angular-messages": "v1.5.8",
+            "bootstrap": "v4.0.0-alpha.6"
+        }
+    }
+}
