@@ -20,6 +20,10 @@
                     url: 'contact',
                     templateUrl: 'contact/contact.html'
                 })
+                .state('home.services', {
+                    url: 'services',
+                    templateUrl: 'services/services.html'
+                })
             $urlRouterProvider.otherwise('/')
         }]);
 
