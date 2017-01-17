@@ -16,6 +16,10 @@
                     url: 'about',
                     templateUrl: 'about/about.html'
                 })
+                .state('home.contact', {
+                    url: 'contact',
+                    templateUrl: 'contact/contact.html'
+                })
             $urlRouterProvider.otherwise('/')
         }]);
 
