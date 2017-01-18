@@ -3,7 +3,7 @@
  *= require_self
  */
 
- @import "semantic-ui";
+ @import "materialize";
  // @import "font-awesome-sprockets";
  // @import "font-awesome";
 
@@ -15,4 +15,9 @@ body {
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover;
+}
+
+nav {
+    background-color: #bdc3c7;
+
 }
