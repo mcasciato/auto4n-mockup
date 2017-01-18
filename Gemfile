@@ -22,8 +22,8 @@ gem 'active_model_serializers'
 gem 'angular-rails-templates'
 # Use bower to load angular dependencies
 gem 'bower-rails'
-# Use for semantic-ui styling
-gem 'semantic-ui-sass'
+# Use for materialize styling
+gem 'materialize-sass'
 # for more style to social media icons
 gem 'bootstrap-social-rails'
 # Use font awesome for icons

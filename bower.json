@@ -7,7 +7,7 @@
             "angular": "v1.5.8",
             "angular-ui-router": "latest",
             "angular-messages": "v1.5.8",
-            "semantic-ui": "latest"
+            "materialize": "latest"
         }
     }
 }
